@@ -1,85 +1,13 @@
-.flex{
-    display: flex;
+.grid{
+    display: grid;
     flex-direction: row;
     justify-content: space-evenly;
     align-content: space-between;
 }
 
-#pokeMovie{
-    display: flex;
-    flex-direction: row;
-}
-
-#pokeLogo{
-    height: 250px;
-    width: 750px;
-    align-self: center;
-}
-
-#moviePoster{
-    align-self: center;
-    margin-top: 15px;
-    margin-bottom: 15px;
-}
-
-#pokePic{
-    align-self: center;
-}
-
-.pokemon{
-    color: #ffcb05;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    align-content: space-between;
-    font-family: 'Press Start 2P', cursive;
-}
-
-.theMovies{
-    background-color: black;
-    font-family: 'Limelight', cursive;
-    display: flex;
-    align-content: center;
-    flex-direction: column;
-    color: ghostwhite;
-    font-size: 21px;
-    border:5px ridge goldenrod;
-}
-
-#pokeSearch{
-    align-self: center;
-    display: flex;
-    align-content: center;
-}
-
-.movieButton{
-    background-color: darkred;
-    border: 5px ridge goldenrod;
-    font-size: 21px;
-    height: 75px;
-    width: 125px;
-}
-
-#movieButtonContainer{
-    display: flex;
-    align-self: center;
-}
-
-#movieIn{
-    align-self: center;
-    font-family: 'Limelight', cursive;
-    font-size: 21px;
-    color: ghostwhite;
-    background-color: darkred;
-    border: inherit;
-    width: 238px;
-    margin-bottom: 15px;
-}
-
+/* 
 body{
-    background-color: #3B4CCA;
-    
-    font-family: 'Press Start 2P', cursive;
+   
 }
 
 header{
@@ -104,4 +32,4 @@ button{
     background-color: inherit;
     color: inherit;
     align-self: center;
-}
+} */
